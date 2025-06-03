@@ -53,9 +53,9 @@ https://appetize.io/app/b_os7ap43lsx7etbn4cmca6nmc3i
 
 
 
-![Student Dashboard](screenshots/student_dashboard.png)
-![Faculty Dashboard](screenshots/booking.png)
-![Admin Dashboard](screenshots/map.png)
+![Student Dashboard](Screenshots/Student_Dashboard.jpg)
+![Faculty Dashboard](Screenshots/Faculty_Dashboard.jpg)
+![Admin Dashboard](Screenshots/Admin_Dashboard.jpg)
 
 ---
 
