@@ -52,10 +52,10 @@ https://appetize.io/app/b_os7ap43lsx7etbn4cmca6nmc3i
 
 
 
+<img src="Screenshots/Student_Dashboard.jpg" alt="Student Dashboard" width="350"/>
+<img src="Screenshots/Faculty_Dashboard.jpg" alt="Faculty Dashboard" width="350"/>
+<img src="Screenshots/Admin_Dashboard.jpg" alt="Admin Dashboard" width="350"/>
 
-![Student Dashboard](Screenshots/Student_Dashboard.jpg)
-![Faculty Dashboard](Screenshots/Faculty_Dashboard.jpg)
-![Admin Dashboard](Screenshots/Admin_Dashboard.jpg)
 
 ---
 
